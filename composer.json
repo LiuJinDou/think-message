@@ -1,0 +1,11 @@
+{
+    "name": "liujindou/think-message",
+    "description": "send-message",
+    "authors": [
+        {
+            "name": "LiuJinDou",
+            "email": "1975876584@qq.com"
+        }
+    ],
+    "require": {}
+}
