@@ -7,5 +7,12 @@
             "email": "1975876584@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "smsbao\\": "src/smsbao"
+        }
+    }
 }
